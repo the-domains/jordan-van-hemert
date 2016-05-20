@@ -1,14 +1,14 @@
-layout_spectrum: 0.8258015469182283
+layout_spectrum: 0.0957180168479681
 typography_spectrum: 0.04991274536587298
 color:
-  brandStrength: 0.1315162784885615
-  lightness: 0.23825180693529546
-  saturation: 0.6968896514736116
-  rhythmicContrast: 0.8868596742395312
+  brandStrength: 0.7500818516127765
+  lightness: 0.9019114593975246
+  saturation: 0.4857996792998165
+  rhythmicContrast: 0.11517230654135346
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
     - '#FFFFFF'
-    - '#FF9800'
+    - '#F26101'
 name: Jordan Van Hemert
