@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-20T07:07:34.168Z'
+datePublished: '2016-05-20T07:07:37.531Z'
 sourcePath: _posts/2016-05-07-paint-with-fire-using-this-virtual-reality-app.md
 inFeed: true
 isBasedOnUrl: 'http://www.vocativ.com/316058/paint-with-fire-using-this-virtual-reality-app/'
@@ -17,7 +17,7 @@ keywords:
   - bernie
 related: []
 author: []
-dateModified: '2016-05-20T07:07:28.390Z'
+dateModified: '2016-05-20T07:07:36.068Z'
 title: Paint With Fire Using This Virtual Reality App
 app_links: []
 publisher:
